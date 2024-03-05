@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: Quick Demo
 emoji: 📚
@@ -11,3 +12,6 @@ license: cc
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+=======
+# HF-quick-demo
+>>>>>>> 1830602 (Initial commit)
